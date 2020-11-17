@@ -25,7 +25,7 @@
 <br>
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=green)
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=darkgreen)
-![mongoose](https://img.shields.io/badge/-mongoose-grey?style=for-the-badge&logo=mongoose&logoColor=white&labelColor=brown)
+![mongoose.js](https://img.shields.io/badge/-mongoose-grey?style=for-the-badge&logo=mongoose.js&logoColor=white&labelColor=brown)
 <br>
 ![flask](https://img.shields.io/badge/-flask-grey?style=for-the-badge&logo=flask&logoColor=white&labelColor=deepgrey)
 ![sqlite](https://img.shields.io/badge/-sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=lightblue)
