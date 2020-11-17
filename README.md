@@ -34,7 +34,9 @@
 ![heroku](https://img.shields.io/badge/-heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=8E2DE2)
 
 <br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devjeetroy98&show_icons=true&hide_border=true)
+
 <br>
 <h2>Connect with me</h2>
 
