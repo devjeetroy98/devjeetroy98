@@ -24,12 +24,12 @@
 ![react](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=blue)
 <br>
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=green)
+![express](https://img.shields.io/badge/-express-grey?style=for-the-badge&logo=express&logoColor=white&labelColor=gray)
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=darkgreen)
-![mongoose.js](https://img.shields.io/badge/-mongoose-grey?style=for-the-badge&logo=mongoose.js&logoColor=white&labelColor=brown)
 <br>
 ![flask](https://img.shields.io/badge/-flask-grey?style=for-the-badge&logo=flask&logoColor=white&labelColor=deepgrey)
 ![sqlite](https://img.shields.io/badge/-sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=lightblue)
-![sqlalchemy](https://img.shields.io/badge/-sqlalchemy-grey?style=for-the-badge&logo=sqlalchemy&logoColor=white&labelColor=black)
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=gray)
 <br>
 
 
