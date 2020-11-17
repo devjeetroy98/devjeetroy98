@@ -27,6 +27,8 @@
 ![flask](https://img.shields.io/badge/-flask-grey?style=for-the-badge&logo=flask&logoColor=white&labelColor=696969)
 ![sqlite](https://img.shields.io/badge/-sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=lightblue)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=orange)
+![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
+![heroku](https://img.shields.io/badge/-heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=8E2DE2)
 
 
 
