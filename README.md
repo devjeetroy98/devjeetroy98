@@ -33,8 +33,8 @@
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 ![heroku](https://img.shields.io/badge/-heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=8E2DE2)
 
-<h2 align = left>Connect with me</h2>
-<div align = left>
+<h2 align = "left">Connect with me</h2>
+<div align = "left">
   
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devjeetroy.dr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-007FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjeetroy98/)
