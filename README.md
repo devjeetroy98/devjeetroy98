@@ -21,15 +21,15 @@
 <br>
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=blue)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![react](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
+![react](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=blue)
 <br>
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=green)
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=darkgreen)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=grey)
+![mongoose](https://img.shields.io/badge/-mongoose-grey?style=for-the-badge&logo=mongoose&logoColor=white&labelColor=brown)
 <br>
 ![flask](https://img.shields.io/badge/-flask-grey?style=for-the-badge&logo=flask&logoColor=white&labelColor=deepgrey)
 ![sqlite](https://img.shields.io/badge/-sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=lightblue)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
+![sqlalchemy](https://img.shields.io/badge/-sqlalchemy-grey?style=for-the-badge&logo=sqlalchemy&logoColor=white&labelColor=black)
 <br>
 
 
