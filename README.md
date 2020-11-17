@@ -27,6 +27,7 @@
 ![react](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=blue)
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=green)
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=darkgreen)
+![pandas](https://img.shields.io/badge/-pandas-grey?style=for-the-badge&logo=pandas&logoColor=white&labelColor=551A8B)
 ![flask](https://img.shields.io/badge/-flask-grey?style=for-the-badge&logo=flask&logoColor=white&labelColor=696969)
 ![sqlite](https://img.shields.io/badge/-sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=lightblue)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=orange)
