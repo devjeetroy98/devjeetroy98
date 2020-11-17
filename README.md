@@ -1,4 +1,4 @@
-### Hi there <div class="tenor-gif-embed" data-postid="12359359" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/wave-hand-sup-hi-gif-12359359">Wave Hand GIF</a> from <a href="https://tenor.com/search/wave-gifs">Wave GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+### Hi there <img src="https://tenor.com/Z1oF.gif" width="40px" />
 
 <!--
 **devjeetroy98/devjeetroy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
