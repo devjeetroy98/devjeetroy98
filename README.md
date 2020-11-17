@@ -9,6 +9,19 @@
 - ☁️ Cloud Enthusiast
 - 💡 A creative individual
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<div align="right">
+  <h3>Programming & Scripting Languages</h3>
+  <ol>
+    <li>C<li>
+    <li>C++<li>
+    <li>Python<li>
+    <li>Java</li>
+    <li>JavaScript<li>
+    <li>HTML5<li>
+    <li>CSS3<li>
+    <li>XML<li>
+  <ol>
+</div>
 
 
