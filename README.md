@@ -10,6 +10,6 @@
 - 💡 A creative individual
 
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
+![C](https://img.shields.io/badge/-C-skyblue)
 
 
