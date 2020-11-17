@@ -37,7 +37,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devjeetroy98&show_icons=true&hide_border=true)
 
-![Most used Programming Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=username=devjeetroy98&show_icons=true&hide_border=true)
+<a href="https://github.com/devjeetroy98" align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjeetroy98&theme=radical&hide=glsl,python" />
+</a>
 
 <br>
 <h2>Connect with me</h2>
