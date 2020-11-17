@@ -33,14 +33,13 @@
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 ![heroku](https://img.shields.io/badge/-heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=8E2DE2)
 
-<h2 align = "left">Connect with me</h2>
-<div align = "left">
-  
+<h2>Connect with me</h2>
+
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devjeetroy.dr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-007FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjeetroy98/)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-ff90d8?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/incredible_drona/)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-3457D5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/devjeet.roy.9699)
-</div>
+
 
 
 
