@@ -12,13 +12,13 @@
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <div align="left">
   <h3>Programming & Scripting Languages</h3>
-  1. C
-  2. C++
-  3. Java
-  4. Python
-  5. JavaScript
-  6. HTML5
-  7. CSS3
+  # 1. C
+  # 2. C++
+  # 3. Java
+  # 4. Python
+  # 5. JavaScript
+  # 6. HTML5
+  # 7. CSS3
 </div>
 
 
