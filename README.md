@@ -35,7 +35,7 @@
 
 <br>
 
-<div display="flex">
+<div style="display:flex">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devjeetroy98&show_icons=true&hide_border=true)
   
