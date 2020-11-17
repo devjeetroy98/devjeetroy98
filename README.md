@@ -39,9 +39,6 @@
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devjeetroy98&show_icons=true&hide_border=true)
 
-</div>
-<div align="right">
-
 ![GitHub Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=devjeetroy98&theme=normal&hide=glsl&show_icons=true&hide_border=true)
 </div>
 
