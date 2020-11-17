@@ -24,6 +24,6 @@
 <br>
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow)
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=blue)
-![C](https://img.shields.io/badge/-c-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=blue)
+![C](https://img.shields.io/badge/-c-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=blue)
 
 
