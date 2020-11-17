@@ -10,7 +10,7 @@
 - 💡 A creative individual
 
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-<div align="right">
+<div align="left">
   <h3>Programming & Scripting Languages</h3>
   <ol>
     <li>C<li>
