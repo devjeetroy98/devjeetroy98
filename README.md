@@ -37,7 +37,7 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
-[![Facebook](https://img.shields.io/badge/-FACEBOOK-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston)
+[![Facebook](https://img.shields.io/badge/-FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.adamalston.com/)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white)](https://t.me/adamalston)
 
 
