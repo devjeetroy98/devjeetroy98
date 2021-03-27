@@ -25,7 +25,7 @@
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=orange)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow)
-![angular](https://img.shields.io/badge/-angular-grey?style=for-the-badge&logo=angular&logoColor=white&labelColor=blue)
+![angular](https://img.shields.io/badge/-angular-grey?style=for-the-badge&logo=angular&logoColor=white&labelColor=red)
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=green)
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=darkgreen)
 ![pandas](https://img.shields.io/badge/-pandas-grey?style=for-the-badge&logo=pandas&logoColor=white&labelColor=551A8B)
