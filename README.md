@@ -29,7 +29,7 @@
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=green)
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=darkgreen)
 ![pandas](https://img.shields.io/badge/-pandas-grey?style=for-the-badge&logo=pandas&logoColor=white&labelColor=551A8B)
-![vb.net](https://img.shields.io/badge/-.NET-grey?style=for-the-badge&logo=vb.net&logoColor=white&labelColor=551A8B)
+![vb.net](https://img.shields.io/badge/-vb.NET-grey?style=for-the-badge&logo=.net&logoColor=white&labelColor=551A8B)
 ![flask](https://img.shields.io/badge/-flask-grey?style=for-the-badge&logo=flask&logoColor=white&labelColor=696969)
 ![sqlite](https://img.shields.io/badge/-sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=lightblue)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
