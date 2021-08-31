@@ -39,14 +39,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devjeetroy98&show_icons=true&hide_border=true)![GitHub Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=devjeetroy98&theme=normal&hide=glsl&show_icons=true&hide_border=true) 
 
-<br>
-<h2>Connect with me</h2>
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devjeetroy.dr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-007FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjeetroy98/)
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-ff90d8?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/incredible_drona/)
-[![Facebook](https://img.shields.io/badge/-FACEBOOK-3457D5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/devjeet.roy.9699)
-
-
-
-
