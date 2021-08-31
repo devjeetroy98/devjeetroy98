@@ -3,8 +3,8 @@
 
 ## I am Devjeet and here are few things about me.
 
-- 🎓 Computer Science and Engineering Undergraduate.
-- 🌏 Full Stack Web Developer
+- 🎓 Computer Science and Engineering Graduate.
+- 🌏 Full Stack Web Developer(MEAN & MERN)
 - 📈 Data Analyst
 - ☁️ Cloud Enthusiast
 - 💡 A creative individual
