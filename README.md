@@ -35,6 +35,7 @@
 ![sqlite](https://img.shields.io/badge/-sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=lightblue)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 ![heroku](https://img.shields.io/badge/-heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=8E2DE2)
+![jenkins](https://img.shields.io/badge/-jenkins-grey?style=for-the-badge&logo=jenkins&logoColor=red&labelColor=black)
 
 <br>
 
