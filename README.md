@@ -5,7 +5,7 @@
 
 - 🎓 Computer Science and Engineering Graduate.
 - 🌏 Full Stack Web Developer(MEAN & MERN)
-- 📈 Data Analyst
+- 📈 Blockchain Enthusiast
 - ☁️ Cloud Enthusiast
 - 💡 A creative individual
 
