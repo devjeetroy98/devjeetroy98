@@ -9,9 +9,9 @@
 - ☁️ Cloud Enthusiast
 - 💡 A creative individual
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>nbsp;nbsp;
 
-<br><br><br><br>
+<br><br>
 ## Languages, Tools & Frameworks
 <br>
 
