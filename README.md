@@ -26,14 +26,25 @@
 ![next.js](https://img.shields.io/badge/-nextjs-white?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black)
 ![nest.js](https://img.shields.io/badge/-nestjs-white?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=red)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-white?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=dodgerblue)
 ![node](https://img.shields.io/badge/-node-white?style=for-the-badge&logo=node.js&logoColor=white&labelColor=green)
 ![mongodb](https://img.shields.io/badge/-mongodb-white?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=darkgreen)
 ![mysql](https://img.shields.io/badge/-mysql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue)
 ![sqlite](https://img.shields.io/badge/-sqlite-white?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=lightblue)
 ![python](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow)
 ![flask](https://img.shields.io/badge/-flask-white?style=for-the-badge&logo=flask&logoColor=white&labelColor=696969)
+![numpy](https://img.shields.io/badge/-numpy-white?style=for-the-badge&logo=numpy&logoColor=white&labelColor=orange)
 ![pandas](https://img.shields.io/badge/-pandas-white?style=for-the-badge&logo=pandas&logoColor=white&labelColor=551A8B)
 ![git](https://img.shields.io/badge/-git-white?style=for-the-badge&logo=git&logoColor=white&labelColor=orange)
 ![github](https://img.shields.io/badge/-github-white?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 ![docker](https://img.shields.io/badge/-docker-white?style=for-the-badge&logo=docker&logoColor=white&labelColor=blue)
+
+---
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devjeetroy98&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjeetroy98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
