@@ -13,7 +13,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="850" height="400"  /></p>
 
-<br><br>
+<br>
 ## 🛠 &nbsp;Languages, Tools & Frameworks
 <br>
 
@@ -22,22 +22,19 @@
 ![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=red)
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=skyblue)
-![dart](https://img.shields.io/badge/-dart-grey?style=for-the-badge&logo=dart&logoColor=white&labelColor=3457D5)
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=blue)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=orange)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue)
 ![angular](https://img.shields.io/badge/-angular-grey?style=for-the-badge&logo=angular&logoColor=white&labelColor=red)
 ![react](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=blue)
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=green)
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=darkgreen)
 ![pandas](https://img.shields.io/badge/-pandas-grey?style=for-the-badge&logo=pandas&logoColor=white&labelColor=551A8B)
-![vb.net](https://img.shields.io/badge/-vb.NET-grey?style=for-the-badge&logo=.net&logoColor=white&labelColor=551A8B)
 ![flask](https://img.shields.io/badge/-flask-grey?style=for-the-badge&logo=flask&logoColor=white&labelColor=696969)
 ![sqlite](https://img.shields.io/badge/-sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=lightblue)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
-![heroku](https://img.shields.io/badge/-heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=8E2DE2)
-![jenkins](https://img.shields.io/badge/-jenkins-grey?style=for-the-badge&logo=jenkins&logoColor=red&labelColor=white)
 
 <br>
 
