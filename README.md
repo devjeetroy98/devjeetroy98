@@ -43,6 +43,6 @@
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devjeetroy98&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjeetroy98&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/devjeetroy98/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devjeetroy98)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
