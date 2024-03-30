@@ -13,9 +13,9 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="850" height="400"  /></p>
 
-<br>
+
 ### 🛠 &nbsp;Languages, Tools & Frameworks
-<br>
+
 
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow)
 ![C](https://img.shields.io/badge/-c-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=blue)
