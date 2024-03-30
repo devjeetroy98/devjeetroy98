@@ -1,15 +1,15 @@
 ### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px">
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I am Devjeet and here are few things about me.
+## I am Devjeet and here are few things about me. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🎓 Computer Science and Engineering Graduate.
 - 🌏 Full Stack Web Developer(MEAN & MERN)
-- 📈 Blockchain Enthusiast
+- 📈 DevOps Enthusiast
 - ☁️ Cloud Enthusiast
 - 💡 A creative individual
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<p align="center"><img alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800" /></p>
 
 <br><br>
 ## Languages, Tools & Frameworks
