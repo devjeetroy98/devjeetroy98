@@ -14,7 +14,7 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="850" height="400"  /></p>
 
 
-### 🛠 &nbsp;Languages, Tools & Frameworks
+## 🛠 &nbsp;Languages, Tools & Frameworks
 
 
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow)
@@ -33,6 +33,7 @@
 ![nest.js](https://img.shields.io/badge/-nestjs-grey?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=red)
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=green)
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=darkgreen)
+![mysql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue)
 ![pandas](https://img.shields.io/badge/-pandas-grey?style=for-the-badge&logo=pandas&logoColor=white&labelColor=551A8B)
 ![flask](https://img.shields.io/badge/-flask-grey?style=for-the-badge&logo=flask&logoColor=white&labelColor=696969)
 ![sqlite](https://img.shields.io/badge/-sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=lightblue)
