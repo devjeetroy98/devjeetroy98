@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="300"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="850" height="400"  /></p>
 
 <br><br>
 ## 🛠 &nbsp;Languages, Tools & Frameworks
