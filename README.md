@@ -19,7 +19,6 @@
 
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow)
 ![C](https://img.shields.io/badge/-c-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=blue)
-![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=red)
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=skyblue)
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=blue)
@@ -29,7 +28,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue)
 ![angular](https://img.shields.io/badge/-angular-grey?style=for-the-badge&logo=angular&logoColor=white&labelColor=red)
 ![react](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=blue)
-![next.js](https://img.shields.io/badge/-nextjs-grey?style=for-the-badge&logo=nextjs&logoColor=white&labelColor=black)
+![next.js](https://img.shields.io/badge/-nextjs-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black)
 ![nest.js](https://img.shields.io/badge/-nestjs-grey?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=red)
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=green)
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=darkgreen)
@@ -38,6 +37,7 @@
 ![flask](https://img.shields.io/badge/-flask-grey?style=for-the-badge&logo=flask&logoColor=white&labelColor=696969)
 ![sqlite](https://img.shields.io/badge/-sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=lightblue)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
+![docker](https://img.shields.io/badge/-docker-grey?style=for-the-badge&logo=docker&logoColor=white&labelColor=blue)
 
 <br>
 
